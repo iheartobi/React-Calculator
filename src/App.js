@@ -8,10 +8,6 @@ class App extends Component {
     }
   }
 
-handleKeyPress = (e) => {
-e.preventDefault()
-console.log(e.target)
-  }
 
 
 handleClick = e => {
